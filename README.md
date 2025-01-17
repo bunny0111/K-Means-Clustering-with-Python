@@ -15,7 +15,7 @@ The following Python libraries are used in this project:
 4. Seaborn: For enhanced visualization styles and ease of plotting.
 5. scikit-learn (sklearn): For implementing the K-Means clustering algorithm.
 
-Dataset:
+Dataset: (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 The dataset used for this project contains customer data with features such as:
   Annual Income
   Spending Score
