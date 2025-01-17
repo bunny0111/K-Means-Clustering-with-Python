@@ -17,8 +17,8 @@ The following Python libraries are used in this project:
 
 Dataset: (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 The dataset used for this project contains customer data with features such as:
-  Annual Income
-  Spending Score
+  > Annual Income
+  > Spending Score
 
 Project Workflow:
   1 Import Libraries: Import the required Python libraries.
